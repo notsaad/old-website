@@ -1,1 +1,1 @@
-Portfolio Website created using react.js and animate.css
+Personal Website created using react.js and animate.css
