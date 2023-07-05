@@ -37,7 +37,7 @@ const About = () => {
                     and implement them into my upcoming projects.
                 </p>
                 <p>
-                    I am finishing up my 2nd year of my Computer Science Major here at the University of Ottawa, however,
+                    I am entering the 3rd year of my Honours Computer Science Major here at the University of Ottawa, however,
                     I have been coding and tinkering with technology as early as I can remember.
                 </p>
                 <p>
