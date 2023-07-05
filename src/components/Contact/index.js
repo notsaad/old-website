@@ -51,8 +51,8 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am seeking internship opportunities for the 2023 summer and fall terms,
-                        and am open to 4/8 month positions. However, feel free to contact me for any other inquiries.
+                        I would be next seeking 4 month internship opportunities for Summer 2024. 
+                        However, feel free to contact me for any other inquiries.
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
